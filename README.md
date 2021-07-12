@@ -1,6 +1,6 @@
 # Project
 
-This repo is for folks interested in growing and strengthening the communities in our repos. We're thinking about these in five categories:
+This repo is for folks interested in growing and strengthening the communities in our repos. We're thinking about this in five categories:
 
 * **Responsiveness** Issues and questions get prompt replies, pull requests make progress and are merged in a reasonable time.
 * **Productivity** It's easy to get started contributing a code change -- easy to build, to navigate the code, debug a change and test it.
