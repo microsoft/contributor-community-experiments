@@ -1,24 +1,20 @@
 # Project
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repo is for folks interested in growing and strengthening the communities in our repos. We're thinking about this in five categories:
 
-As the maintainer of this project, please make a few updates:
+* **Responsiveness** Issues and questions get prompt replies, pull requests make progress and are merged in a reasonable time.
+* **Productivity** It's easy to get started contributing a code change -- easy to build, to navigate the code, debug a change and test it.
+* **Transparency** Everyone in the repo community has insight into and influence over planning and prioritization for the project.
+* **Inclusiveness** The repo is welcoming. Everyone feels part of one team, and it's safe for everyone.
+* **Approachability** We want all users to recognize they're welcomed and wanted when engaging with the repo by reducing the barriers to entry
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+At the moment our focus is on a set repos relating to developer tools and platforms, including C++, Python, .NET including Xamarin and NuGet, and Typescript. (You may have seen some surveys we did last year in those repos, which helped motivate this effort.) Nothing here is specific to those repos - it's just they're the repos in which some of us work. 
 
-## Contributing
+We're using issues in this repo an on our [project board](https://github.com/microsoft/contributor-community-experiments/projects/1) to track our experiments. Our goal is to identify best practices that we can share amongst our repos. We expect we have plenty we can learn from healthy OSS communities of all kinds.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+We welcome contributions and ideas from anyone.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## Code of Conduct
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
