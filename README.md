@@ -6,7 +6,7 @@ This repo is for folks interested in growing and strengthening the communities i
 * **Productivity** It's easy to get started contributing a code change -- easy to build, to navigate the code, debug a change and test it.
 * **Transparency** Everyone in the repo community has insight into and influence over planning and prioritization for the project.
 * **Inclusiveness** The repo is welcoming. Everyone feels part of one team, and it's safe for everyone.
-* **Approachability** It doesn't matter what level of experience you have, everyone's included. Nobody should be afraid of asking a question or offering a pull request.
+* **Approachability** We want all users to recognize they're welcomed and wanted when engaging with the repo by reducing the barriers to entry
 
 At the moment our focus is on a set repos relating to developer tools and platforms, including C++, Python, .NET including Xamarin and NuGet, and Typescript. (You may have seen some surveys we did last year in those repos, which helped motivate this effort.) Nothing here is specific to those repos - it's just they're the repos in which some of us work. 
 
