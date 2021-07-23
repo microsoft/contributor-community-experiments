@@ -10,6 +10,7 @@ This document outlines some of the key workflows and policies that dotnet/runtim
 
 Issue triage is the initial phase of the issue management process in which feature area owners
 
+0. Route it correctly: has it been given a correct area? does it need to be transferred to another repo? 
 1. Classify the issue: is it a feature request? bug report? user question? is the issue unclear?
 2. Determine viability of the issue: is it likely that we would support the feature request in principle? does the bug report reproduce? is the reported issue by-design behavior? is the issue a duplicate?
 3. Estimate required effort: does the feature design need further refinement? how much work is needed to get the implementation done?
